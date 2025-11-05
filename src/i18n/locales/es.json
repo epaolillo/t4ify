@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "features": "Características",
+    "howItWorks": "Cómo Funciona",
+    "pricing": "Precios"
+  },
+  "hero": {
+    "title": "Hacé Viral Tu Contenido",
+    "subtitle": "Monetizá",
+    "description": "T4ify permite a canales y productoras transformar su contenido premium en activos digitales monetizables. Distribuí, monetizá, escalá.",
+    "cta": "Comenzar Ahora",
+    "learnMore": "Conocer Más",
+    "rotatingPhrases": [
+      "Convertí tus contenidos en virales monetizables con un solo link.",
+      "Tus entrevistas pueden seguir generando ingresos... incluso después de emitirse.",
+      "De la pantalla al bolsillo: transforma cada video en un canal de ventas.",
+      "T4ify: el nuevo formato que convierte tu audiencia en compradores.",
+      "Monetizá tu contenido donde realmente se ve: redes sociales y WhatsApp.",
+      "No solo compartas tu contenido — vendelo.",
+      "Tu próximo viral puede pagarte el café… o financiar tu próxima producción."
+    ]
+  },
+  "features": {
+    "title": "Características Poderosas",
+    "subtitle": "La plataforma integral para monetizar contenido premium a escala",
+    "easyLogin": {
+      "title": "Login Sencillo",
+      "description": "Múltiples opciones de autenticación: Google, Facebook, Apple y Email. Acceso rápido para tus usuarios."
+    },
+    "payments": {
+      "title": "Pagos Integrados",
+      "description": "Acepta pagos con Stripe, Google Pay y Apple Pay. Transacciones seguras y rápidas."
+    },
+    "embeddable": {
+      "title": "Embebible",
+      "description": "Snippets web compartibles en redes sociales, WhatsApp y como anuncios. Máxima viralidad."
+    },
+    "referrals": {
+      "title": "Sistema de Referencias",
+      "description": "10% de descuento por cada contacto recomendado. Hasta 30% de descuento total. Incentivá el compartir."
+    },
+    "affordable": {
+      "title": "Precio Accesible",
+      "description": "Cada T4 cuesta menos de 2 USD. Contenido premium al alcance de todos."
+    },
+    "viral": {
+      "title": "Hecho para Viralizar",
+      "description": "Optimizado para Instagram, Facebook, TikTok, WhatsApp y X. Compartí sin límites."
+    }
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "subtitle": "Tres pasos para transformar tu contenido premium en un activo rentable",
+    "step1": {
+      "title": "Integración de Contenido",
+      "description": "Cargá tus producciones exclusivas: especiales, entrevistas, documentales. Nuestra plataforma las convierte en T4s embebibles y distribuibles."
+    },
+    "step2": {
+      "title": "Distribución Multiplataforma",
+      "description": "Desplegá tus T4s como activos digitales en redes sociales, campañas publicitarias y canales propios. Alcance masivo garantizado."
+    },
+    "step3": {
+      "title": "Monetización Directa",
+      "description": "Tu audiencia accede mediante login y pago integrado. Generás ingresos recurrentes mientras expandís tu alcance digital."
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar tu Modelo de Negocio?",
+    "description": "Convertí tu contenido premium en un canal de ingresos recurrente con T4ify",
+    "button": "Solicitar Demo"
+  },
+  "footer": {
+    "tagline": "Viraliza. Monetiza. Crece.",
+    "rights": "Todos los derechos reservados."
+  }
+}
+
